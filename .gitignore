@@ -1,0 +1,41 @@
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Local virtual environment
+/.venv/
+
+# Test, analysis, and coverage caches
+/.pytest_cache/
+/.mypy_cache/
+/.ruff_cache/
+/.coverage
+/.coverage.*
+/htmlcov/
+
+# Packaging and build outputs
+/build/
+/dist/
+*.egg-info/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
+
+# Local macro-financial data layers
+/data/raw/
+/data/interim/
+/data/processed/
+
+# Regenerable heavy analytical outputs
+/artifacts/cache/
+/artifacts/models/
