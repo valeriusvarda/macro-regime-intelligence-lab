@@ -39,3 +39,4 @@ __pycache__/
 # Regenerable heavy analytical outputs
 /artifacts/cache/
 /artifacts/models/
+
