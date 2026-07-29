@@ -2,7 +2,6 @@ from importlib.metadata import version
 
 import macro_regime_intelligence_lab as package
 
-
 DISTRIBUTION_NAME = "macro-regime-intelligence-lab"
 IMPORT_PACKAGE_NAME = "macro_regime_intelligence_lab"
 
