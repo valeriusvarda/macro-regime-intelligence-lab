@@ -43,4 +43,3 @@ No dataset, model, result, or performance claim has been published yet.
 ## Development Sequence
 
 Concept -> mathematical definition -> hand calculation -> implementation -> test -> artifact -> interpretation -> commit.
-
