@@ -162,3 +162,4 @@ Concept
 ## Project Standard
 
 Success is not measured by feature count or lines of code. It is measured by correctness, reproducibility, temporal validity, inspectability, and the ability to defend each research decision with evidence.
+
