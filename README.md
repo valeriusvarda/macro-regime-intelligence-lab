@@ -209,6 +209,7 @@ uv run --locked mypy src tests
 uv run --locked pytest -q
 ```
 
+
 Each command enforces a different contract:
 
 | Gate | Contract |
