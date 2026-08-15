@@ -233,4 +233,3 @@ Each command enforces a different contract:
 ## Project Standard
 
 Success is not measured by feature count, lines of code, or visual complexity. It is measured by whether the project identifies a consequential problem, constructs a testable response, exposes the conditions under which that response fails, and allows another researcher to reproduce and challenge the evidence.
-
