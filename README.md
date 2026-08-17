@@ -40,6 +40,7 @@ The primary research question is:
 
 A result is useful only if it survives chronological evaluation, timing audits, reasonable perturbations, transparent baseline comparison, and independent reproduction.
 
+
 ## Why Common Workflows Fail
 
 | Failure mechanism | Research consequence |
