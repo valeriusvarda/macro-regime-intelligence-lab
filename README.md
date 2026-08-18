@@ -8,7 +8,6 @@
 ![Code Quality](https://img.shields.io/badge/lint%20%26%20format-Ruff-D7FF64)
 ![Type Safety](https://img.shields.io/badge/types-Mypy%20strict-2A6DB2)
 
-
 An evidence-driven quantitative research laboratory built around one problem: financial markets change state, while many analytical systems are designed as if the data-generating process were stable.
 
 > Current stage: research infrastructure and evidence baseline. No dataset, fitted model, backtest result, or performance claim has been published yet.
